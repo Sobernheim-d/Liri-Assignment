@@ -1,4 +1,3 @@
-require("dotenv").config();
 
 /****************************************************************************
  ****************************************************************************
@@ -8,14 +7,7 @@ require("dotenv").config();
 *****************************************************************************
 *****************************************************************************/
 
-
 const keys    = require("./keys.js");
-
-// Bandsintown
-// const bandsintown = require("bandsintown")("codingbootcamp");
-//const Bandsintown = require("bandsintown")("571f1c74be057b25560d6bd9efc9cef3");
-//const bandsintown = new Bandsintown(keys.bandsintown);
-
 
 // Spotify
 const Spotify = require("node-spotify-api");

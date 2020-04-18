@@ -1,0 +1,323 @@
+Error:
+"spotify-this-song," is a not valid command.
+Please select "my-tweets", "spotify-this-song", "movie-this", or "do-what-it-says".
+
+
+Error:
+"spotify" is a not valid command.
+Please select "my-tweets", "spotify-this-song", "movie-this", or "do-what-it-says".
+
+
+Error:
+"spotify this song," is a not valid command.
+Please select "my-tweets", "spotify-this-song", "movie-this", or "do-what-it-says".
+
+
+Error:
+"movie-this," is a not valid command.
+Please select "my-tweets", "spotify-this-song", "movie-this", or "do-what-it-says".
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Aerosmith
+Album        : Rocks
+Track        : Back In the Saddle
+Preview link : https://p.scdn.co/mp3-preview/3a0083586ad47ffc740d37200bd01cc0c3168415?cid=47773db76c35449f93e1785948b86ccf
+
+------------------------------------------------------------
+
+
+Error in calling "OMDB"
+Error: unable to verify the first certificate
+
+
+Error in calling "OMDB"
+[object Object]
+
+
+Movie This
+------------------------------------------------------------
+
+Title          : Star Wars: Episode IV - A New Hope
+Release year   : 1977
+Plot           : Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors         : Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+IMDB           : 8.6
+RottenTomatoes : 92%
+Production     : USA
+Language       : English
+
+------------------------------------------------------------
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Aerosmith
+Album        : Rocks
+Track        : Back In the Saddle
+Preview link : https://p.scdn.co/mp3-preview/3a0083586ad47ffc740d37200bd01cc0c3168415?cid=47773db76c35449f93e1785948b86ccf
+
+------------------------------------------------------------
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Aerosmith
+Album        : Rocks
+Track        : Back In the Saddle
+Preview link : https://p.scdn.co/mp3-preview/3a0083586ad47ffc740d37200bd01cc0c3168415?cid=47773db76c35449f93e1785948b86ccf
+
+------------------------------------------------------------
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Old Dominion
+Album        : Old Dominion
+Track        : One Man Band
+Preview link : https://p.scdn.co/mp3-preview/0f01a3cdc4582c2d244e791bb5bfc8f3ed807256?cid=47773db76c35449f93e1785948b86ccf
+
+------------------------------------------------------------
+
+
+Error in calling "OMDB"
+Error: unable to verify the first certificate
+
+
+Error in calling "OMDB"
+Error: unable to verify the first certificate
+
+
+Movie This
+------------------------------------------------------------
+
+Title          : The Lion King
+Release year   : 1994
+Plot           : A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors         : Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+IMDB           : 8.5
+RottenTomatoes : 93%
+Production     : USA
+Language       : English, Swahili, Xhosa, Zulu
+
+------------------------------------------------------------
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Old Dominion
+Album        : Old Dominion
+Track        : One Man Band
+Preview link : https://p.scdn.co/mp3-preview/0f01a3cdc4582c2d244e791bb5bfc8f3ed807256?cid=47773db76c35449f93e1785948b86ccf
+
+------------------------------------------------------------
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Old Dominion
+Album        : Old Dominion
+Track        : One Man Band
+Preview link : https://p.scdn.co/mp3-preview/0f01a3cdc4582c2d244e791bb5bfc8f3ed807256?cid=47773db76c35449f93e1785948b86ccf
+
+------------------------------------------------------------
+
+
+Movie This
+------------------------------------------------------------
+
+Title          : The Lion King
+Release year   : 1994
+Plot           : A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors         : Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+IMDB           : 8.5
+RottenTomatoes : 93%
+Production     : USA
+Language       : English, Swahili, Xhosa, Zulu
+
+------------------------------------------------------------
+
+
+Movie This
+------------------------------------------------------------
+
+Title          : The Lion King
+Release year   : 1994
+Plot           : A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors         : Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+IMDB           : 8.5
+RottenTomatoes : 93%
+Production     : USA
+Language       : English, Swahili, Xhosa, Zulu
+
+------------------------------------------------------------
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Old Dominion
+Album        : Old Dominion
+Track        : One Man Band
+Preview link : https://p.scdn.co/mp3-preview/0f01a3cdc4582c2d244e791bb5bfc8f3ed807256?cid=47773db76c35449f93e1785948b86ccf
+
+------------------------------------------------------------
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Old Dominion
+Album        : Old Dominion
+Track        : One Man Band
+Preview link : https://p.scdn.co/mp3-preview/0f01a3cdc4582c2d244e791bb5bfc8f3ed807256?cid=47773db76c35449f93e1785948b86ccf
+
+------------------------------------------------------------
+
+
+Movie This
+------------------------------------------------------------
+
+Title          : The Lion King
+Release year   : 1994
+Plot           : A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors         : Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+IMDB           : 8.5
+RottenTomatoes : 93%
+Production     : USA
+Language       : English, Swahili, Xhosa, Zulu
+
+------------------------------------------------------------
+
+
+Movie This
+------------------------------------------------------------
+
+Title          : The Lion King
+Release year   : 1994
+Plot           : A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors         : Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+IMDB           : 8.5
+RottenTomatoes : 93%
+Production     : USA
+Language       : English, Swahili, Xhosa, Zulu
+
+------------------------------------------------------------
+
+
+Movie This
+------------------------------------------------------------
+
+Title          : The Lion King
+Release year   : 1994
+Plot           : A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors         : Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+IMDB           : 8.5
+RottenTomatoes : 93%
+Production     : USA
+Language       : English, Swahili, Xhosa, Zulu
+
+------------------------------------------------------------
+
+
+Movie This
+------------------------------------------------------------
+
+Title          : The Lion King
+Release year   : 1994
+Plot           : A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors         : Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+IMDB           : 8.5
+RottenTomatoes : 93%
+Production     : USA
+Language       : English, Swahili, Xhosa, Zulu
+
+------------------------------------------------------------
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Old Dominion
+Album        : Old Dominion
+Track        : One Man Band
+Preview link : https://p.scdn.co/mp3-preview/0f01a3cdc4582c2d244e791bb5bfc8f3ed807256?cid=47773db76c35449f93e1785948b86ccf
+
+------------------------------------------------------------
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Old Dominion
+Album        : Old Dominion
+Track        : One Man Band
+Preview link : https://p.scdn.co/mp3-preview/0f01a3cdc4582c2d244e791bb5bfc8f3ed807256?cid=47773db76c35449f93e1785948b86ccf
+
+------------------------------------------------------------
+
+
+Movie This
+------------------------------------------------------------
+
+Title          : Star Wars: Episode IV - A New Hope
+Release year   : 1977
+Plot           : Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors         : Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+IMDB           : 8.6
+RottenTomatoes : 92%
+Production     : USA
+Language       : English
+
+------------------------------------------------------------
+
+
+Movie This
+------------------------------------------------------------
+
+Title          : Star Wars: Episode IV - A New Hope
+Release year   : 1977
+Plot           : Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors         : Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+IMDB           : 8.6
+RottenTomatoes : 92%
+Production     : USA
+Language       : English
+
+------------------------------------------------------------
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Old Dominion
+Album        : Old Dominion
+Track        : One Man Band
+Preview link : https://p.scdn.co/mp3-preview/0f01a3cdc4582c2d244e791bb5bfc8f3ed807256?cid=47773db76c35449f93e1785948b86ccf
+
+------------------------------------------------------------
+
+
+Error:
+"spotify-this" is a not valid command.
+Please select "concert-this", "spotify-this-song", "movie-this", or "do-what-it-says".
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Aerosmith
+Album        : Rocks
+Track        : Rats In The Cellar
+Preview link : https://p.scdn.co/mp3-preview/70d7034a75a208cf4ebe1c8ad13e3bc09ff1eca6?cid=47773db76c35449f93e1785948b86ccf
+
+------------------------------------------------------------
+
+

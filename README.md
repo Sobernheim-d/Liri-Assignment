@@ -76,3 +76,10 @@ Preview link : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f
 
 NOTE:  Due to no upcoming concerts, the code for "node liri.js concert-this aerosmith" does not work
 
+This code is published at  https://sobernheim-d.github.io/Liri-Assignment/
+
+technologies used include AXIOS, .file links to API, Switch/case structure, and function calls
+
+i used various methods to get this code working including a lot of research!
+
+Thank you.

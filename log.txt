@@ -446,3 +446,77 @@ Language       : English
 ------------------------------------------------------------
 
 
+Movie This
+------------------------------------------------------------
+
+Title          : Star Wars: Episode IV - A New Hope
+Release year   : 1977
+Plot           : Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors         : Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+IMDB           : 8.6
+RottenTomatoes : 92%
+Production     : USA
+Language       : English
+
+------------------------------------------------------------
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Lesley Gore
+Album        : It's My Party: The Mercury Anthology
+Track        : If That's The Way You Want It
+Preview link : null
+
+------------------------------------------------------------
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Backstreet Boys
+Album        : The Hits--Chapter One
+Track        : I Want It That Way
+Preview link : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=47773db76c35449f93e1785948b86ccf
+
+------------------------------------------------------------
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Lesley Gore
+Album        : It's My Party: The Mercury Anthology
+Track        : If That's The Way You Want It
+Preview link : null
+
+------------------------------------------------------------
+
+
+Movie This
+------------------------------------------------------------
+
+Title          : Star Wars: Episode IV - A New Hope
+Release year   : 1977
+Plot           : Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors         : Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+IMDB           : 8.6
+RottenTomatoes : 92%
+Production     : USA
+Language       : English
+
+------------------------------------------------------------
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Backstreet Boys
+Album        : The Hits--Chapter One
+Track        : I Want It That Way
+Preview link : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=47773db76c35449f93e1785948b86ccf
+
+------------------------------------------------------------
+
+
